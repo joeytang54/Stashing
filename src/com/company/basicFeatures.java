@@ -1,6 +1,6 @@
 package com.company;
 
-public class BasicFeatures {
+public class basicFeatures {
     String enginCapac;
     String color;
     String doors;
